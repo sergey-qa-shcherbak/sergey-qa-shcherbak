@@ -1,2 +1,2 @@
-# SergeyCV-qa.github.io
+# cv
 Сайт визитка на HTML и CSS.
