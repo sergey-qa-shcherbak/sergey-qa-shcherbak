@@ -1,2 +1,2 @@
-# cv-qa.github.io
+# sergey-qa-shcherbak.github.io
 Сайт визитка на HTML и CSS.
