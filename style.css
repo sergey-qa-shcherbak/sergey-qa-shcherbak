@@ -1,0 +1,63 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-image: url('5393627fon.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name {
+    color: #ff7733;
+}
+.photo {
+    position: relative;
+    float: right;
+    margin-top: 15px;
+    margin-right: 13px;
+    border-radius: 30px 30px 30px 30px;
+    border: 0px solid transparent;
+    box-shadow: 0px 4px 15px 0px #ff7733;
+    object-fit: cover;
+}
+.sidebar {
+    position: absolute;
+    margin-top: 37px;
+    margin-left: 650px;
+}
+.uls {
+    list-style-type: none;
+}
+.uls2 {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    color: #ff7733;
+    text-decoration: none;
+}
+p {
+    color: #4f4138;
+}
+.information-about-me {
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 650px;
+}
+.pp {
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 20px 20px 20px 20px;
+    border: 2px solid transparent;
+    box-shadow: 0px 4px 15px 0px #ff7733;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.logo {
+    border-radius: 20px 20px 20px 20px;
+    border: 2px solid #ff7733;
+    margin-left: 673px;
+}
+h4 {
+    color: #4f4138;
+}
