@@ -84,7 +84,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
+[<img src="/certificate.us.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса - Инженер по тестированию»">](https://raw.githubusercontent.com/sergey-qa-shcherbak/sergey-qa-shcherbak/refs/heads/main/certificate.us.png)
 [<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
 <br>
